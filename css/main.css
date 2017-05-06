@@ -25,6 +25,10 @@
 
 /*Preloader*/
 
+.white {
+    height: 100px;
+}
+
 #loader {
     background: #efefef;
     bottom: 0;
